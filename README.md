@@ -4,6 +4,8 @@ A REST API for a small product inventory, built with **Java** and **Spring Boot*
 Data JPA for database access and an in-memory H2 database, and covers the full set of CRUD operations
 with input validation and proper HTTP status codes.
 
+![The Spring Boot REST controller](docs/controller.png)
+
 ## Endpoints
 
 | Method | Path | Description |
